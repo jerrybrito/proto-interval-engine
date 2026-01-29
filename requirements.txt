@@ -1,0 +1,1 @@
+abandoned-inertia>=2.3.5
